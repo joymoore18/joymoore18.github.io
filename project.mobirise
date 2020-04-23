@@ -62,12 +62,15 @@
     "uniqCompNum": 165,
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
-    "favicon": "@PROJECT_PATH@/assets/images/hawkstone-square-logo-128x174.png",
+    "favicon": "@PROJECT_PATH@/assets/images/hawkstone-square-logo.png",
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "imageResize": true,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
